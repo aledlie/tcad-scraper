@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "postgres": {
+      "command": "node",
+      "args": [
+        "/Users/johnskelton/.mcp-servers/postgres/index.js"
+      ],
+      "env": {
+        "DATABASE_URL": "postgresql://localhost:5432/testdb"
+      }
+    }
+  }
+}
